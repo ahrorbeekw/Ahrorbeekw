@@ -2,7 +2,7 @@
 ![Banner](https://i.ibb.co/0qj8nF1/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Ahrorbek</h1>
-<h3 align="center">💻 Developer | AI Enthusiast | Web Developer</h3>
+<h3 align="center">💻 Cp Developer | AI Enthusiast | Backend Developer</h3>
 
 ---
 
@@ -44,7 +44,8 @@
 
 ### 🌟 Connect with Me
 <p align="center">
-  <a href="https://t.me/YOURUSERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOURUSERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/Ahrorbek_py"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahrorbek-orziqulov-a3628a348
+/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mlbbahror@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
