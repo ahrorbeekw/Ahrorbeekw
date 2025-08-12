@@ -8,9 +8,8 @@
 
 ### 🚀 About Me
 - 🌱 Currently learning **Python, Django, Aiogram, AI & Machine Learning**  
-- 💼 My goal: **Build useful and innovative AI-based applications**  
-- 📫 Reach me at: **youremail@example.com**  
-- 🌍 [My Portfolio](https://yourwebsite.com)
+- 💼 My goal: **Build useful and innovative applications**  
+- 📫 Reach me at: **mlbbahror@gmail.com**  
 
 ---
 
