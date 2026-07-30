@@ -168,7 +168,7 @@ Technology-focused projects that combine software engineering, education, and in
 [mlbbahror@gmail.com](mailto:mlbbahror@gmail.com)
 
 🌍 Portfolio
-ahrorbeek.netlify.app
+[ahrorbeek.netlify.app](https://ahrorbeek.netlify.app/)
 
 </p>
 
