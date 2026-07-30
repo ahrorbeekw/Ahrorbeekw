@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Ahrorbek Orziqulov**
 
 <h3 align="center">
-Backend Developer • Frontend Developer • AI-Based Web Developer
+Backend Developer • Frontend Developer • High school student
 </h3>
 
 <p align="center">
@@ -70,19 +70,19 @@ goal:
 ### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=,mysql,sqlite"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=github,linux,vscode,figma"/>
 </p>
 
 ---
@@ -162,13 +162,13 @@ Technology-focused projects that combine software engineering, education, and in
 <p>
 
 💼 LinkedIn
-https://linkedin.com/in/cenzoe
+[https://linkedin.com/in/cenzoe](https://www.linkedin.com/in/cenzoe/)
 
 📧 Email
 [mlbbahror@gmail.com](mailto:mlbbahror@gmail.com)
 
 🌍 Portfolio
-Coming Soon...
+ahrorbeek.netlify.app
 
 </p>
 
